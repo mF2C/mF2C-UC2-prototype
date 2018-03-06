@@ -1,0 +1,3 @@
+# mF2C UC2: Smart Boat [Prototype Repository]
+
+For holding all our hellow world and prototype code, text, info ...
